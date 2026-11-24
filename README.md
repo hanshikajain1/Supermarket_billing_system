@@ -4,10 +4,6 @@
 
 **Queue · HashMap · Stack · Array · File Handling, all in one Java console app**
 
-![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/Project-DSA-0F766E)
-![No Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
-
 </div>
 
 Customers join a billing queue, prices are looked up in a HashMap, and the last scanned item can be removed with a stack. Every bill is saved to `bills.txt`.
